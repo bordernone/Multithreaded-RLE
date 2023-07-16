@@ -1,0 +1,7 @@
+nyuenc
+nyuenc-autograder
+*.in
+binary
+nyuenc-autograder.tar.xz
+nyuenc.zip
+strace.txt
